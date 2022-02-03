@@ -1,3 +1,7 @@
+# Copy right 
+# Change list
+
+
 from lxml import html
 import requests
 from dotenv import load_dotenv
